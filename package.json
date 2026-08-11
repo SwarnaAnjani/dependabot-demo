@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/SwarnaAnjani/dependabot-demo#readme",
   "dependencies": {
-    "express": "^4.22.0"
+    "express": "^4.22.2"
   }
 }
